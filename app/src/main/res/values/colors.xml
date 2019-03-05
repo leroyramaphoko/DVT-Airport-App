@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorLineSeparator">#b9b6b7</color>
+    <color name="loaderBackdropColor">#BFd1CBCD</color>
+    <color name="mapCircle">#668693F5</color>
+    <color name="colorPrimaryText">#FFFFFF</color>
+    <color name="colorTitle">#031543</color>
+    <color name="colorGreenButton">#009688</color>
+</resources>

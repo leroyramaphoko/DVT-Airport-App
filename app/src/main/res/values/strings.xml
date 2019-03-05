@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Airport App</string>
+    <string name="maps_api_key">AIzaSyBRNcLGzeyBJMPNzADq2Mn-0dPxkVcQs-U</string>
+    <string name="enableLocationText">To use this app enable location</string>
+    <string name="somethingWentWrong">Oops! Something went wrong</string>
+    <string name="departure_time">Departure Time</string>
+    <string name="flight_number">Flight Number</string>
+    <string name="destination">Destination</string>
+    <string name="enable">Enable</string>
+    <string name="base_url">http://aviation-edge.com</string>
+    <string name="api_key">ada661-0738f5</string>
+    <string name="nearby_endpoint">/v2/public/nearby?key={api_key}</string>
+    <string name="timetable_endpoint">/v2/public/timetable?key={api_key}</string>
+    <string name="date_format">yyyy-MM-dd\'T\'HH:mm:ss.SSS</string>
+</resources>

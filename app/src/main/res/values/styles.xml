@@ -1,0 +1,35 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="coloredButton" parent="@android:style/Widget.Button">
+        <item name="android:textColor">@color/colorPrimaryText</item>
+        <item name="colorButtonNormal">@color/colorPrimary</item>
+    </style>
+
+    <style name="title" parent="@android:style/TextAppearance.Widget.TextView">
+        <item name="android:textColor">@color/colorTitle</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="colorControlNormal">@color/colorPrimaryText</item>
+    </style>
+
+    <!--<style name="whiteText">-->
+        <!--<item name="android:textColor">@color/colorPrimaryText</item>-->
+    <!--</style>-->
+
+    <style name="CollapsedAppBar" parent="@android:style/TextAppearance.Medium">
+        <item name="android:textSize">24sp</item>
+        <item name="android:textColor">@color/colorPrimaryText</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+</resources>
